@@ -23,9 +23,10 @@ I'm Trey, a passionate developer with a love for crafting digital experiences an
 **Containerization**: Docker
 
 ### 🌐 Connect with Me
-Portfolio: *Coming Soon*
-LinkedIn: [Trey Murray]([https://www.example.com](https://www.linkedin.com/in/trey-murray-2b0b55269/))
+**Portfolio**: *Coming Soon*
 
-GitHub: [Treyktw](https://github.com/treyktw)
+**LinkedIn**: [Trey Murray]([https://www.example.com](https://www.linkedin.com/in/trey-murray-2b0b55269/))
+
+**GitHub**: [Treyktw](https://github.com/treyktw)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about the latest in tech! Let's build something amazing together. 🚀
